@@ -7,22 +7,3 @@ body {
     background-color: #eff3f7;
 }
 
-@media (max-width: 768px) {
-    .card {
-        padding: 10px;
-    }
-
-    .card-header {
-        font-size: 1.5rem;
-    }
-    .container {
-        justify-content: center; 
-        align-items: center; 
-    }
-}
-
-@media (max-width: 576px) {
-    .card-header {
-        font-size: 1.2rem;
-    }
-}
